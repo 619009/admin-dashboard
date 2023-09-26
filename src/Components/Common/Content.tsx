@@ -4,8 +4,8 @@ import React, { FC } from 'react';
 const Content: FC = () => {
   return (
     <div className="content">
-      <h2>title</h2>
-      <p>content</p>
+      <h2>Title</h2>
+      <p>Content</p>
     </div>
   );
 };
